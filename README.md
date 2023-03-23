@@ -15,7 +15,7 @@ The program listens to your voice via your computer's microphone, converts what 
 ## How do I use it?
 
 - First, you need to download the exe file provided `dist\OpenSpeak.exe`.
-- You'll need to enter an API key to use GPT-3. The script will prompt you to enter it. You can create or view your API on [OpenAI](https://platform.openai.com/account/api-keys){:target="_blank"}. 
+- You'll need to enter an API key to use GPT-3. The script will prompt you to enter it. You can create or view your API on <a href="https://platform.openai.com/account/api-keys" target="_blank">OpenAI</a>. 
 - Once you've entered your API key, the program will start running. It will prompt you to speak your question.
 - Say your question out loud, and the it will try to answer it.
 - The program will speak the answer out loud.
