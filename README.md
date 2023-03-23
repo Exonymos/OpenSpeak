@@ -29,5 +29,5 @@ This program might not always work perfectly. If it doesn't understand you, or i
 
 ------------
 
-## [Download]()
+## [Download](https://github.com/Exonymos/OpenSpeak/releases/download/v2023.03.24/OpenSpeak.exe)
 
