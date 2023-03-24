@@ -2,7 +2,7 @@
 
 > This is a Python program that can talk to you! It uses the GPT-3 technology to generate responses to your questions. You can ask it anything you want, and it will try to give you a good answer.
 
-![OpenSpeak](https://socialify.git.ci/Exonymos/OpenSpeak/image?description=1&descriptionEditable=This%20is%20a%20Python%20program%20that%20can%20generate%20responses%20to%20your%20questions%20and%20receive%20an%20answer.&font=Source%20Code%20Pro&forks=1&issues=1&language=1&logo=https%3A%2F%2Fsvgshare.com%2Fi%2FrQ2.svg&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
+![OpenSpeak](https://socialify.git.ci/Exonymos/OpenSpeak/image?description=1&descriptionEditable=This%20is%20a%20Python%20program%20that%20can%20generate%20responses%20to%20your%20questions%20and%20receive%20an%20answer.&font=Source%20Code%20Pro&forks=1&issues=1&logo=https%3A%2F%2Fsvgshare.com%2Fi%2FrQ2.svg&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
 
 ------------
 
@@ -30,4 +30,3 @@ This program might not always work perfectly. If it doesn't understand you, or i
 ------------
 
 ## [Download](https://github.com/Exonymos/OpenSpeak/releases/download/v2023.03.24/OpenSpeak.exe)
-
